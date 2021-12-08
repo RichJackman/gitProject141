@@ -1,3 +1,4 @@
-const c = 1000;
-const a = 50;
-const myFunc= () => {};
+const c = 50;
+const b= () => {
+    console.log('Hi there');
+};
