@@ -4,12 +4,10 @@ body {
 }
 
 h1{
-<<<<<<< HEAD
     font-size: 30px;
 }
 p {
     font-size:20px;
-=======
     font-size: 40px;
     color: green;
 }
@@ -20,5 +18,4 @@ p{
 form{
     margin:20px;
     padding:30px;
->>>>>>> c8db0f5a0779607b6fa9c500e38d8a029c9f9e3b
 }
